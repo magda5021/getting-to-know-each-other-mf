@@ -1,0 +1,9 @@
+h1 { color:rgb(236, 188, 98); }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
